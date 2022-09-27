@@ -38,11 +38,12 @@
 
  #### Javeriya Shaikh 👩‍💻
  
- - Github: Javeriya21
+ - Github: [Javeriya21](https://github.com/Javeriya21)
 
 - Linkedin: Javeriya Shaikh
 
 - Email Id: shaikhjaveriya7@gmail.com
 
-Show your support
-Give a ⭐ if you like this project!
+## Show your support
+
+ Give a ⭐ if you like this project!
