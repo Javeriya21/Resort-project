@@ -40,7 +40,7 @@
  
  - Github: [Javeriya21](https://github.com/Javeriya21)
 
-- Linkedin: Javeriya Shaikh
+- Linkedin: [Javeriya Shaikh](https://www.linkedin.com/in/javeriya-shaikh-228a99209)
 
 - Email Id: shaikhjaveriya7@gmail.com
 
