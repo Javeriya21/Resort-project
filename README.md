@@ -27,7 +27,7 @@
 
 - CSS
 
-## Weather App Live Demo:
+## Resort Live Demo:
 
  [Resort Live Demo Link](http://127.0.0.1:5500/index.html)
 
@@ -38,11 +38,11 @@
 
  #### Javeriya Shaikh 👩‍💻
  
- - Github:  [Javeriya21](https://github.com/Javeriya21)
+- Github  :  [Javeriya21](https://github.com/Javeriya21)
 
-- Linkedin: [Javeriya Shaikh](https://www.linkedin.com/in/javeriya-shaikh-228a99209)
+- Linkedin:  [Javeriya Shaikh](https://www.linkedin.com/in/javeriya-shaikh-228a99209)
 
-- Email Id: shaikhjaveriya7@gmail.com
+- Email Id:  shaikhjaveriya7@gmail.com
 
 ## Show your support
 
